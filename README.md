@@ -1,5 +1,9 @@
 # Wardial
 
+![](https://github.com/mikeizbicki/wardial/workflows/task1/badge.svg)
+![](https://github.com/mikeizbicki/wardial/workflows/task2/badge.svg)
+
+
 **Learning Objectives:**
 
 1. Learn to use and write async functions
