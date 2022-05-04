@@ -88,4 +88,4 @@ and follow the instructions to enable concurrency.
 
 ## Submission
 
-Submit your github url to sakai.
+Once the test cases pass and the badges turn green, submit your github url to sakai.
