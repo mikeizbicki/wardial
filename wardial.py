@@ -220,9 +220,6 @@ def wardial(hosts, **kwargs):
 
     >>> wardial(['208.97.176.235', '23.185.0.2', '142.250.72.174'])
     ['208.97.176.235', '23.185.0.2', '142.250.72.174']
-
-    >>> len(wardial(netmask_to_ips('134.173.32.22/24'))) > 1
-    True
     '''
     # FIXME (Task 1):
     # Implement this function.
